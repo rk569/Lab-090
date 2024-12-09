@@ -12,12 +12,12 @@ console.log(welcome)
 
 
 let characterName = 'Hermione';
-console.log(characterName.toLowerCase(characterName))
-console.log(characterName.toUpperCase(characterName))
+console.log(characterName.toLowerCase())
+console.log(characterName.toUpperCase())
 
 
 let spell = ' Expelliarmus '
-console.log(spell.trim(spell))
+console.log(spell.trim())
 
 
 let quote = 'I solemnly swear that I am up to no good'
